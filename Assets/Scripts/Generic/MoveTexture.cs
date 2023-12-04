@@ -21,5 +21,11 @@ public class MoveTexture : MonoBehaviour
         _imageMaterial.mainTextureOffset += _direction * Time.deltaTime;
     }
 
+    private void OnDisable()
+    {
+        //Debug.Log("Restarting Material Offset");
+        _imageMaterial.mainTextureOffset = Vector2.zero;
+    }
+
 
 }

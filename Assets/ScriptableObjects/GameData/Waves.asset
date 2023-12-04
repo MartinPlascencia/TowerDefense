@@ -17,11 +17,11 @@ MonoBehaviour:
     MidEnemies: 0
     HeavyEnemies: 0
   - WeakEnemies: 6
-    MidEnemies: 8
+    MidEnemies: 3
     HeavyEnemies: 0
   - WeakEnemies: 7
-    MidEnemies: 6
+    MidEnemies: 4
     HeavyEnemies: 2
-  - WeakEnemies: 10
-    MidEnemies: 12
-    HeavyEnemies: 8
+  - WeakEnemies: 8
+    MidEnemies: 8
+    HeavyEnemies: 6

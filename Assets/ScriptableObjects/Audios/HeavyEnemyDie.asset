@@ -16,6 +16,6 @@ MonoBehaviour:
     Name: CannonShot
     Clip:
     - {fileID: 8300000, guid: 8e50d3fe580cced45acbd3f14ddc6af3, type: 3}
-    Volume: 1
+    Volume: 0.5
     Pitch: 1
     Loop: 0
